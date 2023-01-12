@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-final-3f561": {
+      "hosting": {
+        "proje01": [
+          "angular-final-3f561"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-final-3f561"
+  }
+}
